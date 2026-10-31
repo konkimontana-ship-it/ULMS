@@ -1,5 +1,5 @@
 # ULMS
-# University Library Management System (ULMS)
+# Urafiki Library Management System (ULMS)
 
 ## Project Overview
 ULMS is a web-based Library Management System developed to simplify library operations and improve the management of books, users, and borrowing activities.
