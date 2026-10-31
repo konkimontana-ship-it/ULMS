@@ -40,3 +40,16 @@ This project was developed as part of my ICT practical experience to demonstrate
 **Ramadhan Andaye**
 
 Diploma in Information Communication Technology (ICT)
+## System Screenshots
+
+### Admin Login
+![Admin Login](screenshots/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/dashboard.png)
+
+### Manage Books
+![Manage Books](screenshots/manage-books.png)
+
+### Issue and Return Books
+![Issue and Return](screenshots/issue-return.png)
